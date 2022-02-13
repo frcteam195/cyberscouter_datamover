@@ -1,3 +1,10 @@
 <resources>
-    <string name="app_name">cyberscouter_datamover</string>
+    <string name="app_name">Cyberscouter Data Mover</string>
+    <string name="str_match_data">Cyberscouter Match Data</string>
+    <string name="str_btn_fetch">Fetch</string>
+    <string name="str_btn_push">Push</string>
+    <string name="str_last_fetch">Last fetch date</string>
+    <string name="str_last_fetch_key">last_fetch_date</string>
+    <string name="str_last_push">Last upload date</string>
+    <string name="str_last_push_key">last_upload_date</string>
 </resources>
